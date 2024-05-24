@@ -18,10 +18,14 @@ Welcome to **CodeChef**, an advanced web application designed for encoding and d
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or suggestions, please reach out to us at [cyberdrahul@gmail.com](mailto:cyberdrahul@gmail.com).
-
----
-
 Thank you for using CodeChef! Enhance your encoding and decoding skills with our AI-powered suggestions and ensure your code's security. Happy coding!
+
+
+## [+] Find Me On :
+
+[![Github](https://img.shields.io/badge/Instagram-Rahul-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/rahulgarg__09?igsh=MTh5ZnNmMnRicGw5dg==)
+[![Github](https://img.shields.io/badge/TELEGRAM-Rahul-blue?style=for-the-badge&logo=telegram)](https://t.me/cyberrj09)
+
+
+## Visiter
+<img src="https://profile-counter.glitch.me/rahulgarg2206/count.svg" alt="Visitors">
