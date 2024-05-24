@@ -18,12 +18,12 @@ Visit the live site here: https://dk1285.github.io/CodeChef/
 
 Thank you for using CodeChef! Enhance your encoding and decoding skills with our AI-powered suggestions and ensure your code's security. Happy coding!
 
-
 ## [+] Find Me On :
 
-[![Github](https://img.shields.io/badge/Instagram-DK-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/cyber._.dk)
-[![Github](https://img.shields.io/badge/TELEGRAM-DK-blue?style=for-the-badge&logo=telegram)](https://t.me/cyber_dk)
+[![Github](https://img.shields.io/badge/Instagram-Rahul-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/rahulgarg__09?igsh=MTh5ZnNmMnRicGw5dg==)
+[![Github](https://img.shields.io/badge/TELEGRAM-Rahul-blue?style=for-the-badge&logo=telegram)](https://t.me/cyberrj09)
 
 
 ## Visiter
-<img src="https://profile-counter.glitch.me/dk1285/count.svg" alt="Visitors">
+<img src="https://profile-counter.glitch.me/rahulgarg2206/count.svg" alt="Visitors">
+)
